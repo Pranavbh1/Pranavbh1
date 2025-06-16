@@ -1,9 +1,9 @@
 ![Banner](Banner1.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data Scientist & Mechanical Engineer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a AI Engineer.
 =====================================
 
-💡Data Science Trainee💡 with expertise in Python, SQL, Power BI, and exploratory data analysis (EDA). Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data. Completed a comprehensive internship as a DataScientist intern, gaining hands-on experience in applying advanced analytical methods to solve business challenges.
+💡AI Engineer💡 with expertise in Python, SQL, Power BI, and exploratory data analysis (EDA), ML, DL, GenAI. Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data.
 ------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=Pranavbh1&label=PROFILE+VIEWS)
@@ -27,7 +27,7 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 • 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
 
-• 💊I am currently collecting knowledge to become DATA SCIENTIST (preferring 🛠 Mechanical stream for DATA SCIENTIST)💉
+• 💊DATA SCIENTIST 💉
 
 • 🏆 Got AIR7 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
     
@@ -51,19 +51,19 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 ### Tools | Frameworks 
 
-WebApp : Streamlit
+WebApp : Streamlit, FLask.
 
-Data Collection : Web Scrapping(BEAUTIFULSOUP) , Regular Expressions
+Data Collection : Web Scrapping(BEAUTIFULSOUP) , Regular Expressions, MongoDB
 
-Machine and Deep Learning 
+Machine and Deep Learning and GenAI
 
-Natural Language Processing
+Natural Language Processing, OpenCV
 
-Data Visualization : Matplotlib, Tableau, Seaborn. 
+Data Visualization : Matplotlib, PowerBI, Seaborn. 
 
 Data Preprocessing : NumPy, Pandas , python .
 
-Integrated Development Environment : Jupyter-Notebook, VScode .
+Integrated Development Environment : Jupyter-Notebook, VScode , Colab.
 
 
 ### Badges
