@@ -68,7 +68,7 @@ Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true&theme=tokyonight" alt="Pranav's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true" />
 
 ### Support Me
 
