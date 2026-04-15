@@ -3,13 +3,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a AI Engineer.
 =====================================
 
-💡AI Engineer💡 with expertise in Python, SQL, Power BI, and exploratory data analysis (EDA), ML, DL, GenAI. Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data.
+💡AI Engineer💡 with strong expertise in building scalable GenAI systems, Multi-Agent architectures, and production-grade AI applications. Skilled in Python, SQL, FastAPI, and end-to-end AI system design including RAG pipelines, LLM orchestration, and real-time AI systems.
 ------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=Pranavbh1&label=PROFILE+VIEWS)
 
 
-* ✉️  You can contact me at [Mail_Me](mailto:p8982667641@gmail.com)
+* ✉️  You can contact me at [Mail_Me](mailto:p8982667641@gmail.com)
 * ✉️ :office: [LinkedIn](https://www.linkedin.com/in/Pranavbhawsar/)
 
 
@@ -19,23 +19,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/Pranavbh1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pranavbhawsar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
-Innovative forthcoming Data Scientist with experience in WebApp Development , Data Science and Mechanical Engineering(specialisation in Mechatronics). 
+Innovative AI Engineer with hands-on experience in building production-grade AI systems, real-time RAG pipelines, and multi-agent orchestration platforms. Strong background in AI system design, backend engineering, and scalable deployments.
 
-🎗️Over NOOB TO PRO DATA SCIENTIST🎗️
+🎗️From DATA SCIENTIST to AI ENGINEER (GenAI | RAG | Agents)🎗️
 
-• ✒ My devotion is in Motorsport ,  Math and Programming💻 💡
+• ✒ My devotion is in AI Systems, Backend Engineering, and Problem Solving💻 💡
 
-• 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
+• 🧠 Focused on building scalable, real-world AI products 🚀
 
-• 💊DATA SCIENTIST 💉
+• 🤖 AI Engineer (GenAI, Multi-Agent Systems, RAG Architectures)
 
-• 🏆 Got AIR7 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
-    
-    -  Held at Buddha International Circuit (Greator Noida)
-    
-    -  Organised by ISNEE(Indian Society of new Era Engineers) 
+• 🏆 Built and deployed multiple production-grade AI systems across Web, WhatsApp, and SaaS platforms
 
-• 💬 Ask me about Artificial Intelligence and Programming and Automobile.
+• 💬 Ask me about AI Systems, RAG, LLMs, and Backend Architecture.
 
 
 ### Skills
@@ -51,32 +47,34 @@ Innovative forthcoming Data Scientist with experience in WebApp Development , Da
 
 ### Tools | Frameworks 
 
-WebApp : Streamlit, FLask.
+WebApp : Streamlit, Flask, FastAPI, WebSockets
 
-Data Collection : Web Scrapping(BEAUTIFULSOUP) , Regular Expressions, MongoDB
+Data Collection : Web Scraping (BeautifulSoup), APIs, MongoDB
 
-Machine and Deep Learning and GenAI
+Machine Learning / GenAI : LLMs (OpenAI, Claude, Gemini, Phi-3.5), RAG, Multi-Agent Systems, NLP, OpenCV
 
-Natural Language Processing, OpenCV
+AI Architecture : LangChain, LangGraph, MCP, Vector DB (FAISS, ChromaDB), Prompt Engineering
 
-Data Visualization : Matplotlib, PowerBI, Seaborn. 
+Backend & Infra : Docker, Redis, Celery, Kafka, PostgreSQL, MinIO
 
-Data Preprocessing : NumPy, Pandas , python .
+Data Visualization : Matplotlib, Power BI, Seaborn
 
-Integrated Development Environment : Jupyter-Notebook, VScode , Colab.
+Data Preprocessing : NumPy, Pandas, Python
+
+Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Pranavbh1"><img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pranav's GitHub stats" /></a>
+<a href="https://github.com/Pranavbh1"><img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Pranav's GitHub stats" /></a>
 
-<a href="http://www.github.com/Pranavbh1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbh1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Pranavbh1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranavbh1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" /></a>
 
-<a href="http://www.github.com/Pranavbh1"><img src="https://activity-graph.herokuapp.com/graph?username=Pranavbh1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/Pranavbh1"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbh1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1)](https://github.com/Pranavbh1?tab=repositories)
+<a href="https://github.com/Pranavbh1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Langs" /></a>
 
 
 ### Support Me
@@ -94,5 +92,4 @@ Integrated Development Environment : Jupyter-Notebook, VScode , Colab.
 > 
 > 2-> Whatever makes you weak – physical, intellectual or mental. Abandon it like poison.
 
-— Pranav(Follower of SWAMI VIVEKANANDA)
-
+— Pranav (Follower of SWAMI VIVEKANANDA)
