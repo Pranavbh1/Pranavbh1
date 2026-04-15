@@ -70,10 +70,6 @@ Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 
 <img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true&theme=tokyonight" alt="Pranav's GitHub stats" />
 
-<img src="https://streak-stats.demolab.com?user=Pranavbh1&theme=tokyonight" alt="GitHub Streak Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbh1&theme=tokyo-night" alt="GitHub Commits Graph" />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/pranavbhawsar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
