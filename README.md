@@ -64,12 +64,6 @@ Data Preprocessing : NumPy, Pandas, Python
 Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true" />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/pranavbhawsar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
