@@ -74,13 +74,9 @@ Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pranavbh1&show_icons=true&theme=tokyonight" />
+🚀 Active contributor with consistent work on AI systems, GenAI, and backend engineering.
 
-<img src="https://streak-stats.demolab.com?user=Pranavbh1&theme=tokyonight" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranavbh1&theme=tokyo-night" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavbh1&layout=compact&theme=tokyonight" />
+📌 Check out my repositories for real-world AI projects and production-grade implementations.
 
 
 ### Support Me
