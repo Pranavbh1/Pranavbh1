@@ -3,13 +3,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a AI Engineer.
 =====================================
 
-💡AI Engineer💡 with strong expertise in building scalable GenAI systems, Multi-Agent architectures, and production-grade AI applications. Skilled in Python, SQL, FastAPI, and end-to-end AI system design including RAG pipelines, LLM orchestration, and real-time AI systems.
+💡AI Engineer💡 with expertise in Python, SQL, Power BI, and exploratory data analysis (EDA), ML, DL, GenAI. Proficient in web scraping techniques and adept at utilizing machine learning algorithms to derive insights from data.
 ------------------------------------
 
 ![](https://komarev.com/ghpvc/?username=Pranavbh1&label=PROFILE+VIEWS)
 
 
-* ✉️  You can contact me at [Mail_Me](mailto:p8982667641@gmail.com)
+* ✉️  You can contact me at [Mail_Me](mailto:p8982667641@gmail.com)
 * ✉️ :office: [LinkedIn](https://www.linkedin.com/in/Pranavbhawsar/)
 
 
@@ -19,19 +19,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/Pranavbh1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /><a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pranavbhawsar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 
-Innovative AI Engineer with hands-on experience in building production-grade AI systems, real-time RAG pipelines, and multi-agent orchestration platforms. Strong background in AI system design, backend engineering, and scalable deployments.
+Innovative forthcoming Data Scientist with experience in WebApp Development , Data Science and Mechanical Engineering(specialisation in Mechatronics). 
 
-🎗️From DATA SCIENTIST to AI ENGINEER (GenAI | RAG | Agents)🎗️
+🎗️Over NOOB TO PRO DATA SCIENTIST🎗️
 
-• ✒ My devotion is in AI Systems, Backend Engineering, and Problem Solving💻 💡
+• ✒ My devotion is in Motorsport ,  Math and Programming💻 💡
 
-• 🧠 Focused on building scalable, real-world AI products 🚀
+• 🧠🖱 I’m addicted to learn and grow every day 🕵️‍♀️
 
-• 🤖 AI Engineer (GenAI, Multi-Agent Systems, RAG Architectures)
+• 💊DATA SCIENTIST 💉
 
-• 🏆 Built and deployed multiple production-grade AI systems across Web, WhatsApp, and SaaS platforms
+• 🏆 Got AIR7 (Team - Rustle) in 6th Gkart Design challange(22-27 feb 2019)🥇
+    
+    -  Held at Buddha International Circuit (Greator Noida)
+    
+    -  Organised by ISNEE(Indian Society of new Era Engineers) 
 
-• 💬 Ask me about AI Systems, RAG, LLMs, and Backend Architecture.
+• 💬 Ask me about Artificial Intelligence and Programming and Automobile.
 
 
 ### Skills
@@ -47,21 +51,19 @@ Innovative AI Engineer with hands-on experience in building production-grade AI 
 
 ### Tools | Frameworks 
 
-WebApp : Streamlit, Flask, FastAPI, WebSockets
+WebApp : Streamlit, FLask.
 
-Data Collection : Web Scraping (BeautifulSoup), APIs, MongoDB
+Data Collection : Web Scrapping(BEAUTIFULSOUP) , Regular Expressions, MongoDB
 
-Machine Learning / GenAI : LLMs (OpenAI, Claude, Gemini, Phi-3.5), RAG, Multi-Agent Systems, NLP, OpenCV
+Machine and Deep Learning and GenAI
 
-AI Architecture : LangChain, LangGraph, MCP, Vector DB (FAISS, ChromaDB), Prompt Engineering
+Natural Language Processing, OpenCV
 
-Backend & Infra : Docker, Redis, Celery, Kafka, PostgreSQL, MinIO
+Data Visualization : Matplotlib, PowerBI, Seaborn. 
 
-Data Visualization : Matplotlib, Power BI, Seaborn
+Data Preprocessing : NumPy, Pandas , python .
 
-Data Preprocessing : NumPy, Pandas, Python
-
-Integrated Development Environment : Jupyter Notebook, VS Code, Colab
+Integrated Development Environment : Jupyter-Notebook, VScode , Colab.
 
 
 ### Badges
@@ -92,4 +94,5 @@ Integrated Development Environment : Jupyter Notebook, VS Code, Colab
 > 
 > 2-> Whatever makes you weak – physical, intellectual or mental. Abandon it like poison.
 
-— Pranav (Follower of SWAMI VIVEKANANDA)
+— Pranav(Follower of SWAMI VIVEKANANDA)
+
